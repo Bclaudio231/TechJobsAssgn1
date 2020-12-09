@@ -1,0 +1,8 @@
+C:\Users\bkara\source\repos\TechJobs(Assgn1)\bin\Debug\job_data.csv
+C:\Users\bkara\source\repos\TechJobs(Assgn1)\bin\Debug\TechJobsConsole.exe.config
+C:\Users\bkara\source\repos\TechJobs(Assgn1)\bin\Debug\TechJobsConsole.exe
+C:\Users\bkara\source\repos\TechJobs(Assgn1)\bin\Debug\TechJobsConsole.pdb
+C:\Users\bkara\source\repos\TechJobs(Assgn1)\obj\Debug\TechJobsConsole.csprojAssemblyReference.cache
+C:\Users\bkara\source\repos\TechJobs(Assgn1)\obj\Debug\TechJobsConsole.csproj.CoreCompileInputs.cache
+C:\Users\bkara\source\repos\TechJobs(Assgn1)\obj\Debug\TechJobsConsole.exe
+C:\Users\bkara\source\repos\TechJobs(Assgn1)\obj\Debug\TechJobsConsole.pdb
